@@ -1,0 +1,6 @@
+{
+  "name": "Joker Story",
+  "description": "An interactive English learning platform featuring simplified/advanced stories, smart AI dictionary, flashcard decks, quizzes, speech shadowing, and streak mechanics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
